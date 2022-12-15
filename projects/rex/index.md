@@ -8,7 +8,7 @@ Eric Hernandez: [@eric-hdez](https://github.com/eric-hdez)
 
 ## Overview of REX
 
-For our final project, we decided to build **REX**: a declarative regular expression language, with SQL-like syntax. The language supports the basic regular expression operators *union* (|), *concatenation* (.), and *star repeat* (\*).
+For our final project, we decided to build **REX**: a declarative regular expression language, with SQL-like syntax. The language supports the basic regular expression operators *union* (\|), *concatenation* (.), and *star repeat* (\*).
 
 ## Downsides of Regex
 
